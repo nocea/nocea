@@ -1,6 +1,7 @@
 ## Knowledge
-<a href="https://www.flaticon.es/iconos-gratis/java" title="java iconos">Java iconos creados por Freepik - Flaticon</a>
+![java](https://github.com/nocea/nocea/assets/91067903/eb6fc7ff-2a0f-49f5-a23a-806aa5f45111)
 <!--
+
 **nocea/nocea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
