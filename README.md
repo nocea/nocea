@@ -1,5 +1,10 @@
 ## Knowledge
-data:image/svg+xml;utf8,<svg%20xmlns%3D"http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg"%20xmlns%3Axlink%3D"http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink"%20width%3D"29"%20height%3D"20"%20role%3D"img"%20aria-label%3D"GIT"><title>GIT<%2Ftitle><linearGradient%20id%3D"s"%20x2%3D"0"%20y2%3D"100%25"><stop%20offset%3D"0"%20stop-color%3D"%23bbb"%20stop-opacity%3D".1"%2F><stop%20offset%3D"1"%20stop-opacity%3D".1"%2F><%2FlinearGradient><clipPath%20id%3D"r"><rect%20width%3D"29"%20height%3D"20"%20rx%3D"3"%20fill%3D"%23fff"%2F><%2FclipPath><g%20clip-path%3D"url(%23r)"><rect%20width%3D"0"%20height%3D"20"%20fill%3D"%2397ca00"%2F><rect%20x%3D"0"%20width%3D"29"%20height%3D"20"%20fill%3D"%2397ca00"%2F><rect%20width%3D"29"%20height%3D"20"%20fill%3D"url(%23s)"%2F><%2Fg><g%20fill%3D"%23fff"%20text-anchor%3D"middle"%20font-family%3D"Verdana%2CGeneva%2CDejaVu%20Sans%2Csans-serif"%20text-rendering%3D"geometricPrecision"%20font-size%3D"110"><text%20aria-hidden%3D"true"%20x%3D"145"%20y%3D"150"%20fill%3D"%23010101"%20fill-opacity%3D".3"%20transform%3D"scale(.1)"%20textLength%3D"190">GIT<%2Ftext><text%20x%3D"145"%20y%3D"140"%20transform%3D"scale(.1)"%20fill%3D"%23fff"%20textLength%3D"190">GIT<%2Ftext><%2Fg><%2Fsvg>
+![Static Badge](https://img.shields.io/badge/Java-orange)
+![Static Badge](https://img.shields.io/badge/C%23-purple)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/TypeScript-blue)
+![Static Badge](https://img.shields.io/badge/Angular-red)
+![Static Badge](https://img.shields.io/badge/SQL-green)
 
 <!--
 
