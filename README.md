@@ -1,5 +1,5 @@
 ## Knowledge
-![java (2)](https://github.com/nocea/nocea/assets/91067903/079fed6f-77e7-4618-93ed-70bd684a0c6b)
+![java (2)](https://github.com/nocea/nocea/assets/91067903/079fed6f-77e7-4618-93ed-70bd684a0c6b)![java (2)](https://github.com/nocea/nocea/assets/91067903/079fed6f-77e7-4618-93ed-70bd684a0c6b)
 <!--
 
 **nocea/nocea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
