@@ -1,6 +1,5 @@
 ## Knowledge
-![java (2)](https://github.com/nocea/nocea/assets/91067903/079fed6f-77e7-4618-93ed-70bd684a0c6b)
-![logotipo-de-c- (1)](https://github.com/nocea/nocea/assets/91067903/cf7d3347-c2bd-4a75-8f8b-cdb5365aade3)
+shields.io
 
 <!--
 
