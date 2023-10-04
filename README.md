@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Angular-red)
 ![Static Badge](https://img.shields.io/badge/SQL-green)
 ## Portfolio
-[Portfolio Personal](mnocea.eu)
+[Portfolio Personal](www.mnocea.eu)
 <!--
 
 **nocea/nocea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
