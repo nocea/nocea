@@ -1,5 +1,6 @@
 ## Knowledge
-🐱‍👤Languages-->![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
+🐱‍👤Languages  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
 ## PortFolio
 [mnocea.eu](http://mnocea.eu)
 <!--
