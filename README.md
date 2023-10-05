@@ -1,10 +1,5 @@
 ## Knowledge
-![Static Badge](https://img.shields.io/badge/Java-orange)
-![Static Badge](https://img.shields.io/badge/C%23-purple)
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
-![Static Badge](https://img.shields.io/badge/TypeScript-blue)
-![Static Badge](https://img.shields.io/badge/Angular-red)
-![Static Badge](https://img.shields.io/badge/SQL-green)
+# CLOUDS
 ## PortFolio
 [mnocea.eu](http://mnocea.eu)
 <!--
