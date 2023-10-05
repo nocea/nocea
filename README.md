@@ -1,6 +1,6 @@
 ## Knowledge
 ☁Clouds☁
-![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ## PortFolio
 [mnocea.eu](http://mnocea.eu)
 <!--
