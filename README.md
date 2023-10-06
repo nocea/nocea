@@ -18,8 +18,6 @@
 🏦Databases  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)  
-## PortFolio
-[mnocea.eu](http://mnocea.eu)
 <!--
 
 **nocea/nocea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
