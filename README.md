@@ -43,4 +43,4 @@ Actualmente ampliando mi homelab y explorando infraestructura self-hosted. 🖥�
 
 ## 📬 Encuéntrame
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mnocea.eu-black?style=flat&logo=firefox&logoColor=white)](http://mnocea.eu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mnocea.eu-black?style=flat&logo=firefox&logoColor=white)](https://mnocea.tech)
